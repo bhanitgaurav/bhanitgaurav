@@ -1,4 +1,4 @@
-# 👨‍💻Developer with a Passion for Kotlin, Jetpack Compose, KMP and Flutter
+# 👨‍💻Developer with a Passion for Kotlin, Jetpack Compose, and Flutter
 
 Welcome to my GitHub repository! I'm passionate about learning new skills, and to build Android applications using Kotlin, Jetpack Compose, and started Flutter to gain skills.
 
